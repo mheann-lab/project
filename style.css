@@ -1,0 +1,48 @@
+<style>
+body{
+    color: aquamarine;
+    font-weight: lighter;
+    font-size: 20px;
+    background-image:url(nature_background.jpg);
+    background-position: justify;
+    padding-bottom: 10%;
+    background-size: cover;
+    text-align: center;
+    font-family: open sans,Sans-serif;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: azure;
+    text-shadow: -3px 10px 5px black;
+}
+p{
+    font-size: 20px;
+    font-weight:lighter;
+    color: whitesmoke;
+    padding-bottom: 20px;
+    font-family: Open Sans;
+}
+
+h1{
+    font-size: 30px;
+    color: aqua;
+    font-weight: bold
+    text-shadow: -3px 10px 5px black;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: -3px 10px 5px black
+    color: aqua;
+    padding: 20px 0px 20px 0px;
+}
+
+ul li{
+    font-family: Open Sans;
+    color: whitesmoke;
+    font-size: 20px;
+}
+</style> 
