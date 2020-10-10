@@ -3,12 +3,12 @@ body{
     color: aquamarine;
     font-weight: lighter;
     font-size: 20px;
-    background-image:url(nature_background.jpg);
+    background-image:url(rsz_free_nature_backgrounds_-_perseÏden_storm_by_skitterphoto1.jpg);
     background-position: justify;
     padding-bottom: 10%;
     background-size: cover;
     text-align: center;
-    font-family: open sans,Sans-serif;
+    font-family: Lucida;
     background-repeat: no-repeat;
 }
 
@@ -21,7 +21,7 @@ p{
     font-weight:lighter;
     color: whitesmoke;
     padding-bottom: 20px;
-    font-family: Open Sans;
+    font-family: Lucida;
 }
 
 h1{
@@ -41,7 +41,7 @@ h2{
 }
 
 ul li{
-    font-family: Open Sans;
+    font-family: Lucida;
     color: whitesmoke;
     font-size: 20px;
 }
